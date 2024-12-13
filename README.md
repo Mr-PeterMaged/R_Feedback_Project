@@ -109,6 +109,8 @@ The resulting CSV file will look like this:
 | Jane Smith   | 5678       | Product B | It's okay, could be improved.         | neutral   | 3      | 2021-06-15   | Los Angeles| jane.smith@example.com   | 654321  |
 | Bob Johnson  | 9101       | Product C | Terrible, broke after one use.        | negative  | 1      | 2020-09-10   | Chicago    | bob.johnson@example.com  | 987654  |
 
+--
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
