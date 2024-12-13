@@ -3,6 +3,9 @@
 
 This script generates a synthetic dataset of customer feedback, including randomly generated customer information, product reviews, ratings, and other relevant details. The data is generated using the Python libraries `faker`, `random`, `datetime`, and `multiprocessing` for efficient parallel data generation. The dataset is saved as a CSV file, which can be used for various purposes such as analysis, training machine learning models, or simulating real-world customer interactions.
 
+[image alt](https://github.com/Mr-PeterMaged/R_Feedback_Project/blob/main/Data-Set/sentiment_pie_chart.png)]
+
+
 ## Features
 
 - Generates a customizable number of synthetic customer feedback entries.
